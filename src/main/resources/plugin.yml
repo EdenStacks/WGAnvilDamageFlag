@@ -1,0 +1,9 @@
+name: WGAnvilDamageFlag
+version: '${project.version}'
+main: fr.edencraft.wganvildamageflag.WGAnvilDamageFlag
+api-version: 1.18
+prefix: WGAnvilDamageFlag
+depend: [ WorldGuard ]
+authors: [ NayeOne ]
+description: Add a WorldGuard Flag to disable/enable anvil damage.
+website: https://github.com/EdenStacks
